@@ -1,5 +1,5 @@
 # pc-set-up
-## How I set up each new work pc I get
+## How I set up each new mac I get
 Inspired by https://www.swyx.io/new-mac-setup-2021/ 
 
 - Download Chrome, set to default
