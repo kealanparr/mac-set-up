@@ -26,3 +26,27 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 vscode
 git lens
 nvm
+
+turn off dim display on battery power
+
+
+add to private/etc/hosts
+127.0.0.0 localhost
+
+sign into code pen
+
+use zsh terminal
+
+show bookmarks on chrome
+untick show apps on bookmarks tab
+
+vs code:
+cmd, ctl, x - close terminal
+compact folders - off
+
+Slack
+- allow microphone access
+- allow video access
+
+set up touch id
+
