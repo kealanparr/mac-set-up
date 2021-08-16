@@ -25,7 +25,7 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 
 vscode
 git lens
-nvm
+install nvm
 
 turn off dim display on battery power
 
@@ -50,3 +50,15 @@ Slack
 
 set up touch id
 
+turn on wordwrap on vscode
+vscode dark theme
+
+mac dark theme
+
+line endings to whatever is preferred at the workplace
+set git config variables:
+-username
+-email
+
+
+turn off sourcemaps in chrome
