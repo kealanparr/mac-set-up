@@ -12,7 +12,7 @@ Inspired by https://www.swyx.io/new-mac-setup-2021/
 - Disable Ask Siri
 - Show hidden files (open the Finder and press Command + Shift + . (full stop/period))
 - Prune the excessive sidebar bookmarks
-- Tidy up Dock/Taskbar
+- Tidy up Dock/Taskbar - and make it smaller
 
 -- Im upto Setup Terminal
 https://www.swyx.io/new-mac-setup-2021/
