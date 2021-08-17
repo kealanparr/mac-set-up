@@ -64,6 +64,7 @@ add battery % to top taskbar
 
 turn off sourcemaps in chrome
 
-Look in github repo to look at:
-	- git aliases
-	- terminal aliases
+Look in github repo to look at:  
+	- git aliases  
+	- terminal aliases  
+  
