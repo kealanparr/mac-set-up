@@ -60,5 +60,6 @@ set git config variables:
 -username
 -email
 
+add battery % to top taskbar
 
 turn off sourcemaps in chrome
