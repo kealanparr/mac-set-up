@@ -63,3 +63,7 @@ set git config variables:
 add battery % to top taskbar
 
 turn off sourcemaps in chrome
+
+Look in github repo to look at:
+	- git aliases
+	- terminal aliases
