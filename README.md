@@ -68,3 +68,9 @@ Look in github repo to look at:
 	- git aliases  
 	- terminal aliases  
   
+when you shut down, untick the reopen windows on close
+
+install chrome extension, edit this cookie
+
+security and privacy
+	- apple advertising - personalised adds off
