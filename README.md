@@ -31,7 +31,7 @@ turn off dim display on battery power
 
 vscode install
 - Bracket Pair Colorizer
-- - 
+- auto rename tag
 
 add to private/etc/hosts
 127.0.0.0 localhost
