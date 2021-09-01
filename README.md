@@ -3,10 +3,11 @@
 Inspired by https://www.swyx.io/new-mac-setup-2021/ 
 
 - Download Chrome, set to default
-		- Install Ad-block
+		- Ad-block
 		- React dev-tools
 		- uBlock Origin
-- Log in to:
+
+- Log in to, and get Desktop apps for the two:
 		- Slack
 		- Outlook
 - Disable Ask Siri
