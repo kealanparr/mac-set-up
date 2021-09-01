@@ -41,6 +41,8 @@ sign into code pen
 
 use zsh terminal
 
+System Preferences>Keyboard>Shortcuts>Mission Control>Show Desktop Shortcut for F11- disble so you can "Step Into" debug on Chrome and VSCode
+
 show bookmarks on chrome
 untick show apps on bookmarks tab
 
