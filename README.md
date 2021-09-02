@@ -37,6 +37,8 @@ Install from vscode marketplace:
 	- Bracket Pair Colorizer
 	- Auto rename tag (renames both start and end tags when one is renamed/changed)
 
+System Preferences > Mouse > Swipe between pages turn on (to turn swipe left to back on)
+
 Install nvm
 
 Turn off dim display on battery power
