@@ -70,6 +70,9 @@ Put mac on dark theme
 
 Add battery % to top taskbar
 
+Add Exchange account to Calendar app
+On Exchnage app also click View > Show Notifications to see all invites and updates on LHS
+
 Turn off sourcemaps in chrome - this gets toggled on and off often during debugging
   
 When you shut down, untick the reopen windows on close
