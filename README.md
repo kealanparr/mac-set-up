@@ -60,7 +60,9 @@ Slack and Teams:
 - allow video access
 - allow screen recording access
 
-Set up touch id
+Set up Touch Id
+
+System Preferences > Battery > Turn Display After > Click and drag slider for 20 minutes
 
 Put mac on dark theme
 
