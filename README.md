@@ -68,7 +68,8 @@ System Preferences > Battery > Turn Display After > Click and drag slider for 20
 
 Put mac on dark theme
 
-Add battery % to top taskbar
+Add battery % to Menu Bar at the top of the screen
+Add volume to Menu Bar at the top of the screen
 
 Add Exchange account to Calendar app
 On Exchnage app also click View > Show Notifications to see all invites and updates on LHS
