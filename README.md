@@ -80,3 +80,6 @@ When you shut down, untick the reopen windows on close
 
 Sytem Preferences > Security and privacy
 	- apple advertising - personalised adds off
+
+In Preferences => Mission Control, uncheck "Displays have separate Spaces".
+Now the dock will stay one one screen, or else it will change constantly as you move your mouse to the bottom of the screen.
