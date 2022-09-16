@@ -62,6 +62,10 @@ Slack and Teams:
 - allow video access
 - allow screen recording access
 
+Turn off the Emoji shortcut, as its likely the biggest source of misclicks
+System Preferences -> Keyboard -> Do Nothing
+<img width="336" alt="image" src="https://user-images.githubusercontent.com/25173414/190615105-0e218dd4-a944-4045-9ece-ae7246ae3336.png">
+
 Set up Touch Id
 
 System Preferences > Battery > Turn Display After > Click and drag slider for 20 minutes
