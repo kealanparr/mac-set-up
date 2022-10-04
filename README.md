@@ -72,7 +72,7 @@ System Preferences > Battery > Turn Display After > Click and drag slider for 20
 
 Put mac on dark theme
 
-Go to VsCode, and go Code -> Preferences -> Keyboard Shortcuts -> Then add Tab Left arrow to be go forwards, Tab Right arrow to go forward for easier nav
+Go to VsCode, and go Code -> Preferences -> Keyboard Shortcuts -> Then add Cmd, Control Left arrow to be go forwards, Cmd Cntrl Right arrow to go forward for easier nav
 
 Add battery % to Menu Bar at the top of the screen
 Add volume to Menu Bar at the top of the screen
