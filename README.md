@@ -25,6 +25,11 @@ Enable the Finder path bar - https://www.alphr.com/show-path-finder-title-bar/
 Set up zsh-aliases: https://github.com/kealanparr/zsh-aliases
 Set up git aliases: https://github.com/kealanparr/git-cheatsheet
 
+Macos update
++ Set dark mode on Mac, everything else comes dark as it copies theme of the Mac
++ Outlook, view, turn off "show as conversations" to stop emails nesting into horrible collapsible units
++ Turn on secondary click on mouse
+
 Install vscode
 Make it dark mode
 Set line endings to whatever is preferred at the workplace
