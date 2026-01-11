@@ -81,6 +81,10 @@ Go to VsCode, and go Code -> Preferences -> Keyboard Shortcuts -> Then add Cmd, 
 Add battery % to Menu Bar at the top of the screen    
 Add volume to Menu Bar at the top of the screen    
 
+To make VSCode functions work as "Step into code" "step out of code" etc, rather than the Volume
+Now, to use volume you just need to press fn + the key (much better)
+https://stackoverflow.com/questions/29955146/unable-to-debug-with-f11-with-vscode-toggled-fullscreen
+
 Add Exchange account to Calendar app    
 On Exchnage app also click View > Show Notifications to see all invites and updates on LHS    
 
