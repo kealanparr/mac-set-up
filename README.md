@@ -1,3 +1,4 @@
+
 # pc-set-up
 ## How I set up each new mac I get
 Inspired by https://www.swyx.io/new-mac-setup-2021/ 
@@ -44,6 +45,8 @@ Install from vscode marketplace:
 System Preferences > Mouse > Swipe between pages turn on (to turn swipe left to back on)    
 
 Install nvm    
+
+Install homebrew
 
 Turn off dim display on battery power    
 
